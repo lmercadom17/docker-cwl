@@ -6,7 +6,7 @@ cwlVersion: v1.0
 
 requirements:
  - class: DockerRequirement
-   dockerImageId: docker-hello-world
+   dockerImageId: "docker-hello-world"
 
 inputs:
  infile:
