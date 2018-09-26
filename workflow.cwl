@@ -4,7 +4,7 @@ cwlVersion: v1.0
 
 hints:
  DockerPull: docker-hello-world
- class: DockerRequirements
+ class: DockerRequirement
 
 inputs:
  infile:
