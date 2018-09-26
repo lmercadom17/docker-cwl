@@ -2,9 +2,9 @@
 
 cwlVersion: v1.0
 
-hints:
- DockerImageId: docker-hello-world
- class: DockerRequirement
+Requirements:
+ -class: DockerRequirement
+  dockerImageId: docker-hello-world
 
 inputs:
  infile:
