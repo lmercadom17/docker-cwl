@@ -2,7 +2,7 @@
 
 cwlVersion: v1.0
 
-Requirements:
+requirements:
  -class: DockerRequirement
   dockerImageId: docker-hello-world
 
