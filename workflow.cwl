@@ -3,7 +3,7 @@
 cwlVersion: v1.0
 
 hints:
- DockerPull: docker-hello-world
+ DockerImageId: docker-hello-world
  class: DockerRequirement
 
 inputs:
