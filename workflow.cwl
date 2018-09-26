@@ -15,5 +15,5 @@ inputs:
    position: 1
 outputs: []
 
-baseCommand: ["run-hello-world"]
+baseCommand: ["run-hello-world.sh"]
  
